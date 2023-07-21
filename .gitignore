@@ -22,9 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-<<<<<<< HEAD
+
+
+
+
 Sistema-Smart-Tv/.vscode/settings.json
-.gitignore
-=======
-TiposVariaveis/.vscode/settings.json
->>>>>>> a0c925df02e7d4e76b325aa7113c3494a86fbf02
